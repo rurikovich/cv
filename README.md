@@ -5,6 +5,9 @@
 1) underscore.io Scala with Cats https://underscore.io/books/scala-with-cats/ 2021
 2) Paul Chiusano and Runar Bjarnason Foreword by Martin Odersky: functional programming in scala 2020
 
+SRE
+1) Бетси Бейер, Крис Джоунс, Дженнифер Петофф, Нейл Ричард Мёрфи: 
+Site Reliability Engineering. Надежность и безотказность как в Google
 
 Менеджмент
 1) Питер Друкер  Эффективный управляющий 2023
